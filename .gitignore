@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependency directories
+pids/
+logs/
+results/
+
+# dotenv environment variable file
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Test coverage
+coverage/
+
+# Compiled binary addons
+build/Release
